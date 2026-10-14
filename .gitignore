@@ -1,0 +1,13 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Training data and generated runs
+LLVIP/
+llvip_yolo26n_data/
+runs/
+
+# Keep only the requested trained weights
+
